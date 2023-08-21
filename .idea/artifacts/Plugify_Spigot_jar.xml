@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Plugify-Spigot:jar">
+    <output-path>$PROJECT_DIR$/../Servers/1.8_Server/plugins</output-path>
+    <root id="archive" name="Plugify-Spigot.jar">
+      <element id="module-output" name="Plugify-Spigot" />
+    </root>
+  </artifact>
+</component>

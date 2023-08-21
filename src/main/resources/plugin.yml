@@ -1,0 +1,17 @@
+name: Plugify-Spigot
+version: '${project.version}'
+main: org.pebbleprojects.plugifyspigot.Plugify
+api-version: '1.13'
+
+commands:
+  plugify:
+    description: Main command for Plugify
+    aliases: pf
+
+permissions:
+  plugify.search:
+    description: Search permission
+    default: op
+  plugify.download:
+    description: Download permission
+    default: op
